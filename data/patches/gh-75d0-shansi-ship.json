@@ -1,0 +1,37 @@
+{
+	"id": 4151,
+	"name": "SHANSI SHIP",
+	"description": "Shansi is a ship between streamers Shadoune666 and AnsiChan, this ship was created by the novelers of their communities.\n(2025 update) This drawing was made when it was just a ship but now it's canon, they're happily living together in Mexico, that's love for ya folks!!!",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/Shadoune666",
+			"https://www.twitch.tv/AnsiChan"
+		]
+	},
+	"path": {
+		"T, 246-256": [
+			[
+				79,
+				0
+			],
+			[
+				95,
+				0
+			],
+			[
+				95,
+				7
+			],
+			[
+				79,
+				7
+			]
+		]
+	},
+	"center": {
+		"T, 246-256": [
+			87,
+			4
+		]
+	}
+}
